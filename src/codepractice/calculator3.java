@@ -19,7 +19,7 @@ public class calculator3 {
 	
 	public calculator3() {
 		
-		memory = -1;// intializing the variables
+		memory = -2;// intializing the variables
 		//create constructor with parameter with memory value.
 		
 	}
